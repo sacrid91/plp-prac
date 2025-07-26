@@ -31,7 +31,10 @@ A simple script that:
     Stores a list of jokes.
     Randomly selects and displays one joke from the list.
 ------------------------------------------------------------------------------------
-4.How to Run the Scripts 
+4. largePower.py
+A script that evaluates the exponent and returns value and if it's >= 5000 it returns True else False
+------------------------------------------------------------------------------------   
+How to Run the Scripts 
 
 Make sure you have Python 3 installed on your system. 
 
