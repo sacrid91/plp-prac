@@ -33,6 +33,7 @@ A simple script that:
 ------------------------------------------------------------------------------------
 4. largePower.py
 A script that evaluates the exponent and returns value and if it's >= 5000 it returns True else False
+    i.e Base 4 and Exponent 2 in 4² = 16 False
 ------------------------------------------------------------------------------------   
 How to Run the Scripts 
 
@@ -43,6 +44,7 @@ To run any script, open your terminal or command prompt and navigate to the fold
      python greetingApp.py
      python quizGame.py
      python jokeGen.py
+     python largePower.py
 ------------------------------------------------------------------------------------
 NOTE: 
 
