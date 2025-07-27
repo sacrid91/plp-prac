@@ -34,7 +34,10 @@ A simple script that:
 4. largePower.py
 A script that evaluates the exponent and returns value and if it's >= 5000 it returns True else False
     i.e Base 4 and Exponent 2 in 4² = 16 False
-------------------------------------------------------------------------------------   
+------------------------------------------------------------------------------------
+5. fileHandler file contains a fileHandler.py + input.txt + output.txt
+   The python file reads from input.txt then writes in output.txt 
+------------------------------------------------------------------------------------
 How to Run the Scripts 
 
 Make sure you have Python 3 installed on your system. 
@@ -45,6 +48,7 @@ To run any script, open your terminal or command prompt and navigate to the fold
      python quizGame.py
      python jokeGen.py
      python largePower.py
+     python fileHandler.py
 ------------------------------------------------------------------------------------
 NOTE: 
 
